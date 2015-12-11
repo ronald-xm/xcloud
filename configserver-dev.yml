@@ -1,0 +1,7 @@
+spring:
+  profiles: dev
+
+sms:
+  service:app.cloopen.com
+  port: 8883
+  timeout: 65
